@@ -52,12 +52,12 @@
           <execution>
             <id>enforce-maven</id>
             <goals>
-              <goal>enforce.skip</goal>
+              <goal>enforce</goal>
             </goals>
             <configuration>
               <rules>
                 <requireMavenVersion>
-                  <version>[3.5.4,)</version>
+                  <version>[3.5.0,)</version>
                 </requireMavenVersion>
               </rules>
             </configuration>
