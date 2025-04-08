@@ -7,7 +7,7 @@ pipeline {
             }
         }
         stage('Build') {
-            steps { sh ' echo " pretend we build staff hier "
+            steps { sh ' echo " pretend we build staff hier " '
         }
     }
 }
