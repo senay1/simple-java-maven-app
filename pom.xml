@@ -18,7 +18,7 @@
   <distributionManagement>
   <repository>
     <id>internal-maven-snapshots</id>
-    <url>http://192.168.178.21:8081/repository/internal-maven-snapshots/</url>
+    <url>192.168.178.21:8081/repository/internal-maven-snapshots/</url>
   </repository>
 </distributionManagement>
   <properties>
